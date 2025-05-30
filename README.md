@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Ahmed Moustafa  
 🚀 Senior Software Developer | Node.js & NestJS Enthusiast  
 
----
-
 ## About Me  
 🔧 Dedicated Full stack Developer with 9 years of experience. Proficient in Building Web apps with various technologies, Proven ability to efficiently collaborate with multi-disciplinary teams and deliver projects on-time, while continuously learning and adapting to new technologies and industry trends. Passionate about crafting seamless web experiences that enhance user satisfaction and drive business growth.
 
@@ -16,8 +14,6 @@
 - 🎨 **Tailwind CSS, Bootstrap, MUI, Shadcn UI**  
 - 🧰 **Redux, TanStack Query, Git, Mongoose, TypeORM**  
 - 🌐 **HTML, CSS, PHP**
-
----
 
 ## Skills & Tools  
 
@@ -46,8 +42,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ## Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/ahmedmhamed-dev/)  
