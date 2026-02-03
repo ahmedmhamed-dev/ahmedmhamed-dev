@@ -10,7 +10,7 @@ Dedicated Full stack Developer with 5+ years of experience. Proficient in Buildi
 - 🔗 **REST APIs**  
 - 🧪 **Jest, Supertest, Postman**  
 - 🔧 **Redis, BullMQ**  
-- 🖥️ **React.js, React Native, Next.js**  
+- 🖥️ **Next.js, React.js, React Native**  
 - 🎨 **Tailwind CSS, Bootstrap, MUI, Shadcn UI**  
 - 🧰 **Redux, TanStack Query, Git,  TypeORM**  
 - 🌐 **HTML, CSS, PHP**
