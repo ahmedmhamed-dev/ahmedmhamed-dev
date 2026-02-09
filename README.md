@@ -47,5 +47,5 @@ Dedicated Full stack Developer with 5+ years of experience. Proficient in Buildi
 </p>
 
 ## Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/ahmedmhamed-dev/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ahmedmhamedev/)  
 📫 Feel free to reach out!
